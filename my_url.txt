@@ -1,2 +1,1 @@
-# You will enter your deployed Surge URL here
-http://victorious-nation.surge.sh
+http://victorious-nation.surge.sh/
